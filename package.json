@@ -1,5 +1,5 @@
 {
-  "name": "react-rating-component",
+  "name": "@cogent-labs/react-rating-component",
   "version": "1.0.0",
   "description": "react-rating-component React component",
   "main": "lib/index.js",
